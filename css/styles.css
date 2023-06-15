@@ -311,15 +311,12 @@ img {
   flex-direction: column;
 }
 
-.list-img-four {
-  gap: 24px;
-}
 
 .list-img-four {
   display: flex;
   text-align: center;
-  margin: 0;
-  padding: 0;
+  gap: 24px;
+  
 }
 
 .section-four {
@@ -416,14 +413,15 @@ img {
 fill: #8E8F99;
 
 }
-/* .customer-list-link {
+.customer-list-link {
  fill: currentColor;
-} */
+} 
 
 .customer-link:hover,
 .customer-link:focus {
   border-color: #404BBF;
   fill: #404BBF;
+  color: #404BBF;
 }
 
 
