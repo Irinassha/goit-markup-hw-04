@@ -320,8 +320,6 @@ img {
 }
 
 .section-four {
-
-  margin: 0;
   background-color: #f4f4fd;
   padding: 120px 0;
 }
@@ -361,7 +359,6 @@ img {
 .social-list {
   display: flex;
   justify-content: center;
-  align-items: center;
   gap: 24px;
 }
 
@@ -410,7 +407,7 @@ img {
   height: 88px;
   border: 1px solid #8E8F99;
   border-radius: 4px;
-fill: #8E8F99;
+color: #8E8F99;
 
 }
 .customer-list-link {
